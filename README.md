@@ -412,3 +412,6 @@ ox_invenry/data/items.lua
 
     ox_inventory/web/imges
     Place image in
+
+	--------------------------
+	I am Japanese, so the contents of client.lua and targets.lua are in Japanese, so please change the language when using them.
