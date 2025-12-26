@@ -4,6 +4,7 @@ Release of a revised version of ox_inventory and target compatible version
 # Dependencies
 # ox_inventory - https://github.com/overextended/ox_inventory/releases
 # ox_target - https://github.com/overextended/ox_target
+# ox_lib - https://github.com/overextended/ox_lib
 # dpemote - https://github.com/AamiRobin/dpemotes
 --------------------------
 I am Japanese, so the contents of client.lua and targets.lua are in Japanese, so please change the language when using them.
