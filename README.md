@@ -1,11 +1,21 @@
 # uwu-catcafe
 Release of a revised version of ox_inventory and target compatible version
 
-Dependencies
-ox_inventory - https://github.com/overextended/ox_inventory/releases
-ox_target - https://github.com/overextended/ox_target
-dpemote - https://github.com/AamiRobin/dpemotes
+# Dependencies
+# ox_inventory - https://github.com/overextended/ox_inventory/releases
+# ox_target - https://github.com/overextended/ox_target
+# dpemote - https://github.com/AamiRobin/dpemotes
+--------------------------
+I am Japanese, so the contents of client.lua and targets.lua are in Japanese, so please change the language when using them.
 
+maps gabz-uwucatcafe
+https://fivem.gabzv.com/package/4724734
+--------------------------
+日本語訳にもなってますのでその他の方も自由にお使いください
+
+マップはgabzのものが必要です
+https://fivem.gabzv.com/package/4724734
+--------------------------
 ox_invenry/data/items.lua
 
 	["gelado-morango"] = {
@@ -412,16 +422,5 @@ ox_invenry/data/items.lua
 
     ox_inventory/web/imges
     Place image in
-
-	--------------------------
-	I am Japanese, so the contents of client.lua and targets.lua are in Japanese, so please change the language when using them.
-
-	maps gabz-uwucatcafe
-	https://fivem.gabzv.com/package/4724734
-	--------------------------
-	日本語訳にもなってますのでその他の方も自由にお使いください
-
-	マップはgabzのものが必要です
-    https://fivem.gabzv.com/package/4724734
 	
 	
