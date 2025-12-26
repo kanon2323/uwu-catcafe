@@ -415,3 +415,13 @@ ox_invenry/data/items.lua
 
 	--------------------------
 	I am Japanese, so the contents of client.lua and targets.lua are in Japanese, so please change the language when using them.
+
+	maps gabz-uwucatcafe
+	https://fivem.gabzv.com/package/4724734
+	--------------------------
+	日本語訳にもなってますのでその他の方も自由にお使いください
+
+	マップはgabzのものが必要です
+    https://fivem.gabzv.com/package/4724734
+	
+	
